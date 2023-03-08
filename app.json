@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "newToDoList",
+    "slug": "newToDoList",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.rntvieiracarvalho.newtodolist"
+    }
+  }
+}
